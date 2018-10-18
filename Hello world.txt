@@ -1,4 +1,4 @@
-print ("Hello world!")
-print ("Hello all!")
-print ("Hello, Oleg!")
-print ("Hello, Valera!")
+print ("Hello world!@@@")
+print ("Hello all!@@@")
+print ("Hello, Oleg!@@@")
+print ("Hello, Valera!@@@")
